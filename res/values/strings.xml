@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Repair Shop</string>
+    <string name="vehicle_toast_text">Vehicle added successfully</string>
+    <string name="repair_toast_text">Repair request added successfully</string>
+    <string name="delete_toast_text">Deletion Successful</string>
+</resources>
